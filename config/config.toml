@@ -1,0 +1,3 @@
+Server = "localhost"
+Database = "fighters_db"
+Port = "6787"
