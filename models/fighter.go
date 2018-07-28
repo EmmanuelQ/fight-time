@@ -15,7 +15,7 @@ type Fighter struct {
 	CountryResiding string  `json:"country_residing"`
 	CityResiding    string  `json:"city_residing"`
 	CountryOfOrigin string  `json:"country_of_origin"`
-	CityOfOrigin    string  `json:"city_of_origin"`
+	PlaceOfOrigin   string  `json:"place_of_origin"`
 	KoTkoWins       int     `json:"ko_tko_wins"`
 	SubWins         int     `json:"submission_wins"`
 	Decisionwins    int     `json:"decision_wins"`
